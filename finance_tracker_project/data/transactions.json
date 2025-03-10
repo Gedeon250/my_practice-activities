@@ -1,0 +1,27 @@
+[
+    {
+      "type": "income",
+      "amount": 5000,
+      "category": "Salary",
+      "date": "2025-03-01"
+    },
+    {
+      "type": "expense",
+      "amount": 150,
+      "category": "Groceries",
+      "date": "2025-03-02"
+    },
+    {
+      "type": "expense",
+      "amount": 200,
+      "category": "Rent",
+      "date": "2025-03-01"
+    },
+    {
+      "type": "income",
+      "amount": 1500,
+      "category": "Freelance Work",
+      "date": "2025-03-05"
+    }
+  ]
+  
